@@ -22,4 +22,4 @@ Elinizdeki veriseti ile 1 aylık yada 6 aylık zaman periyotları içerisinde en
 * **InvoiceDate:** Fatura tarihi 
 * **UnitPrice:** Fatura fiyatı (Sterlin)
 * **CustomerID:** Eşsiz müşteri numarası 
-* **Country:** Ülke ism
+* **Country:** Ülke ismi
